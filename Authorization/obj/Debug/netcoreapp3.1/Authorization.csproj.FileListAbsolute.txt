@@ -1,0 +1,146 @@
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization.styles.css
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+D:\AngularExamples\RetailAPI\Download\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization.styles.css
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+E:\Ecommerce _Backend\Retail-Product-Management-v3-master\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
